@@ -1,2 +1,2 @@
 My first readme
-this file been updates to complete the task at hand 
+this file been updated from github to complete the task at hand 
